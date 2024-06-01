@@ -1,0 +1,11 @@
+# archivos de tipo con extención 
+.db
+
+# anexión de los documentos 
+secrets.js
+credenciales_correo.py
+
+
+# la carpeta “ pycache ”
+/__pycache__
+
